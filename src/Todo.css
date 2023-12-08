@@ -1,0 +1,93 @@
+/* Todo.css */
+body {
+  margin: 0;
+  font-family: "Arial", sans-serif;
+  background-color: #282c34;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.center-div {
+  background-color: #404b69;
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  width: 80%;
+  max-width: 400px;
+  text-align: center;
+}
+
+h1 {
+  color: #f76c6c;
+  margin-bottom: 20px;
+}
+
+.input-div {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+input {
+  flex: 1;
+  padding: 10px;
+  border: none;
+  border-radius: 5px 0 0 5px;
+  outline: none;
+}
+
+button {
+  background-color: #70c1b3;
+  border: none;
+  padding: 10px;
+  border-radius: 0 5px 5px 0;
+  cursor: pointer;
+}
+
+ol {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  background-color: #5cdff9;
+  color: black;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+/* Todo.css */
+/* ... (previous styles) */
+
+ul {
+  padding: 0;
+}
+
+.cross {
+  display: flex;
+  align-items: center;
+  background-color: #404b69;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+i {
+  margin-right: 10px;
+  cursor: pointer;
+  color: #f76c6c;
+}
+
+li {
+  flex: 1;
+  color: white;
+  text-decoration: none;
+  list-style: none;
+}
+
+li.completed {
+  text-decoration: line-through;
+  color: #8c8c8c;
+}
