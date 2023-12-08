@@ -38,16 +38,3 @@ Run the application:
    ```bash
    npm start
    ```
-
-Visit http://localhost:3000 in your web browser to view the app.
-
-## Contributing
-
-Contributions are welcome! Please check the [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Make sure to replace "your-username" with your actual GitHub username. You can also customize the content based on your project's specific details. If you have any specific instructions for contributors or other information, feel free to add it to the README.
