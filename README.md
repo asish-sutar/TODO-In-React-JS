@@ -10,8 +10,6 @@ A minimalistic To-Do List application built with React.
 - Add tasks to the to-do list
 - Remove tasks from the list
 
-## Getting Started
-
 ### Prerequisites
 
 Make sure you have [Node.js](https://nodejs.org/) installed.
